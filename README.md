@@ -1,6 +1,7 @@
 # JIRA Ticket Fetcher
 
-A Python tool that fetches all JIRA tickets for a specific project and converts them into a structured PRD (Product Requirements Document) format with user stories.
+A Python tool that fetches all JIRA tickets for a specific project and converts them into a structured PRD (Product Requirements Document) format with user stories.  
+Used for the Ralph tool located here https://github.com/snarktank/ralph
 
 ## Features
 
